@@ -1,4 +1,4 @@
-# Youbot v1.1 (created by thelinuxchoid, updated by luit0r)
+# Youbot v1.1 (created by thelinuxchoice, updated by luit0r)
 ## CREDIT GOES TO THELINUXCHOICE
 ## Link: github.com/thelinuxchoice/youbot
 ## Author: github.com/thelinuxchoice
