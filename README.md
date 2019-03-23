@@ -1,8 +1,9 @@
-# Youbot v1.0
+# Youbot v1.1 (created by thelinuxchoid, updated by luit0r)
+## CREDIT GOES TO THELINUXCHOICE
 ## Link: github.com/thelinuxchoice/youbot
 ## Author: github.com/thelinuxchoice
 ## IG: instagram.com/thelinuxchoice
-### Don't copy this code without give me the credits, bitch! 
+
 Youbot is a Shell Script to increase views on Youtube using Tor ips.
 
 ### Usage:
@@ -16,7 +17,7 @@ sudo ./youbot.sh URL
 ### Install requirements (xdotool, proxychains, tor):
 
 ```
-apt-get install -y xdotool tor proxychains 
+./install.sh
 ```
 
 
